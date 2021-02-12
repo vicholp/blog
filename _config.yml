@@ -9,6 +9,8 @@ image: assets/img/ogp.png # This image used for Open Graph more info https://ogp
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
+destination: ./build
+
 # Profile settings
 author:
   name: Vicente Lineros # author name
