@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://vicholp.github.io/vicho.dev-blog/"
 languageCode = "es-cl"
 theme = "hello-friend"
 paginate = 10
