@@ -4,17 +4,17 @@ theme = "hello-friend"
 paginate = 10
 
 [languages]
-  [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+  [languages.es]
+    title = "Vicente Lineros Blog"
+    subtitle = ""
     keywords = ""
     copyright = ""
-    menuMore = "Show more"
-    writtenBy = "Written by"
-    readMore = "Read more"
+    menuMore = "Ver mas"
+    writtenBy = "Escrito por"
+    readMore = "Leer mas"
     readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
+    newerPosts = "Nuevos posts"
+    olderPosts = "Posts antiguos"
     minuteReadingTime = "min read"
     dateFormatSingle = "2006-01-02"
     dateFormatList = "2006-01-02"
