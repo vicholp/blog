@@ -1,5 +1,6 @@
 baseurl = "https://vicholp.github.io/blog/"
 languageCode = "es-cl"
+defaultContentLanguage = "es"
 theme = "hello-friend"
 paginate = 10
 
@@ -21,21 +22,15 @@ paginate = 10
     # leave empty to disable, enter display text to enable
     # lastModDisplay = ""
 
-    [languages.en.params.logo]
-      logoText = "hello friend"
-      logoHomeLink = "/"
-    # or
-    #
+    [languages.es.params.logo]
+      logoText = "Vicente Lineros"
+      logoHomeLink = "/blog"
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
+    [languages.es.menu]
+      [[languages.es.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
 

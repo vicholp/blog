@@ -1,0 +1,2 @@
+## Ejecutar
+`hugo server -D`
